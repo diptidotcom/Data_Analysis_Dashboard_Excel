@@ -17,7 +17,7 @@ The Vrinda Store wants to create an annual sales report for 2022,so that ,the ow
 8] Percentage of Total Orders delivered
 
 ## Dashboard Interaction 
-- Dasboard Interaction <a href ="https://github.com/diptidotcom/Data_Analysis_Dashboard_Excel/blob/main/Vrinda_Store_Analysis.png">View Dashboard</a>
+- <a href ="https://github.com/diptidotcom/Data_Analysis_Dashboard_Excel/blob/main/Vrinda_Store_Analysis.png">View Dashboard</a>
 
 
 # Process 
@@ -34,7 +34,7 @@ Created pivot tables according to the quetions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 # Dashboard
-
+- <a href ="https://github.com/diptidotcom/Data_Analysis_Dashboard_Excel/blob/main/Vrinda_Store_Analysis.png">View Dashboard</a>
 
 # Project Insight
 
