@@ -17,7 +17,7 @@ The Vrinda Store wants to create an annual sales report for 2022,so that ,the ow
 8] Percentage of Total Orders delivered
 
 ## Dashboard Interaction 
-- <a href="C:\Users\dipti\Downloads\Vrinda_Store_Analysis.png">Dashboard</a>
+- Dasboard Interaction <a href ="https://github.com/diptidotcom/Data_Analysis_Dashboard_Excel/blob/main/Vrinda_Store_Analysis.png">View Dashboard</a>
 
 
 # Process 
